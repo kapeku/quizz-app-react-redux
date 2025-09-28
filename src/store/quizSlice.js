@@ -1,5 +1,5 @@
 import { createSlice } from '@reduxjs/toolkit';
-import { questions } from '../data/questions';
+import { questions } from '../data/questions_football';
 import { shuffleQuestions, shuffleAnswers } from '../utils/quizUtils';
 import { questionsMovies } from '../data/questions_movies';
 
